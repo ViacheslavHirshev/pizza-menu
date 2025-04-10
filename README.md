@@ -1,6 +1,6 @@
 ## Pizza menu app(basically just non-responsive site)
 
-#Technologies used:
+# Technologies used:
 * HTML
 * CSS
 * React + Typescript
